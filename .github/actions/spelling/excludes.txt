@@ -1,0 +1,4 @@
+ignore$
+(?:^|/)(?i)LICENSE
+^\.github/
+\.gitattributes$
